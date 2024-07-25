@@ -31,3 +31,7 @@ The findings of this study reveal that climate change has quadrupled (e.g., incr
   <img src='/images/QJRMS_fig1.jpg'>
   <figcaption>(a) Surface height of local topography (unit: km), and rivers of Bangladesh and northeastern India, (b) monsoon-rainfall-related flood frequency per decade, (c) observed annual mean rainfall (mm/day), and (d) annual mean 1-day extreme rainfall event frequency per decade based on the India Meteorological Department (IMD) and Bangladesh Meteorological Department (BMD) gridded datasets from year 1981 to 2021. NEBI: northeast Bangladesh and India; SEB: southeast Bangladesh.</figcaption>
 </figure>
+
+News coverage:
+
+[The Daily Star: Rise in Extreme Rainfall Behind Flash Floods in Sylhet](https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/rise-extreme-rainfall-behind-flash-floods-sylhet-3635536)

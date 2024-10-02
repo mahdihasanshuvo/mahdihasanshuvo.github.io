@@ -42,7 +42,7 @@ News
 <div class="news-container">
   <div class="news-item">
     <span class="news-date">September, 2024:</span>
-    <span class="news-content"> New paper titled 'Hemisphere-dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation' is accepted in the Journal of Climate. </span>
+    <span class="news-content"> New paper titled 'Hemisphere-dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation' is accepted in the Journal of Climate.[DOI](https://doi.org/10.1175/JCLI-D-24-0112.1) </span>
   </div>
   <div class="news-item">
     <span class="news-date">June, 2024:</span>

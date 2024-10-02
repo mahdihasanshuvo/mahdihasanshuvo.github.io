@@ -16,7 +16,7 @@ You can also find publications on [my Google Scholar profile](https://scholar.go
 
 ### Publications
 
-- Hasan, M., Larson, S., McMonigal, K., Robinson, W., Aiyyer, A. (2024). Hemisphere-dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation. Journal of Climate, Accepted, in Production.
+- Hasan, M., Larson, S. M., McMonigal, K., Robinson, W. A., & Aiyyer, A. (2024). Hemisphere-dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation. Journal of Climate.[DOI](https://doi.org/10.1175/JCLI-D-24-0112.1)
 
 - Fahad, A.A., Hasan, M., Sharmili, N., Islam, S., Swenson, E.T. & Roxy, M.K. (2024) Climate change quadruples flood-causing extreme monsoon rainfall events in Bangladesh and northeast India. Quarterly Journal of the Royal Meteorological Society, 150(760), 1267–1287. [DOI](https://doi.org/10.1002/qj.4645)
 

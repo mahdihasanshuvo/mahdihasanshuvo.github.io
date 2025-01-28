@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[View CV here](http://mahdihasanshuvo.github.io/files/CV_MahdiHasan_April2024.pdf)
+[View CV here](http://mahdihasanshuvo.github.io/files/Mahdi_CV_Jan2025.pdf)
 
 <!---
 {% include base_path %}

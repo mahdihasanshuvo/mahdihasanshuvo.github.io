@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Mahdi Hasan, P.hD. candidate in the department of Marine Earth and Atmospheric Science (MEAS) at North Carolina State University.  My research interests include large-scale atmospheric and oceanic circulations, climate variability and change. I am currently advised by Dr. Sarah Larson, associate professor of the MEAS department at NC State. Prior to joining NC State, I earned my Bachelor's and Master's degrees in Mechanical Engineering with a focus on Computational Fluid Dynamics.
+I am Mahdi Hasan, a Postdoctoral Research Fellow in the Department of Marine, Earth, and Atmospheric Sciences (MEAS) at North Carolina State University. My research broadly focuses on large-scale atmospheric and oceanic circulations, climate variability, and climate change. I earned my Ph.D. in Climate and Atmospheric Science from NC State in 2025, and before that, I completed my Bachelor's and Master's degrees in Mechanical Engineering with a focus on Computational Fluid Dynamics.
 
 Education
 =======
@@ -40,13 +40,21 @@ Education
 News
 ====
 <div class="news-container">
+    <div class="news-item">
+    <span class="news-date">July, 2025:</span>
+    <span class="news-content">Officially started working as a Postdoctoral Research Fellow at NC State.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">June, 2025:</span>
+    <span class="news-content">Unconditionally passed Ph.D. defense. Dissertation: Internally and Externally Forced Interactions between Tropical Ocean and Hadley Circulation.</span>
+  </div>
   <div class="news-item">
     <span class="news-date">September, 2024:</span>
     <span class="news-content"> New paper titled 'Hemisphere-dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation' is accepted in the Journal of Climate.</span>
   </div>
   <div class="news-item">
     <span class="news-date">June, 2024:</span>
-    <span class="news-content">Presented research at the CESM Annual Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</span>
+    <span class="news-content">Presented research at the CESM Annual Workshop in the National Center for Atmospheric Research (NCAR), Boulder, CO.</span>
   </div>
   <div class="news-item">
     <span class="news-date">March, 2024:</span>

@@ -11,8 +11,8 @@ I am Mahdi Hasan, a Postdoctoral Research Fellow in the Department of Marine, Ea
 Education
 =======
 - Ph.D., Atmospheric Science, North Carolina State University, Raleigh, NC, USA
-- MSc, Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
-- BSc, Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
+- M.S., Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
+- B.S., Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
 
 <!-- News feed below. Need regular updates -->
 

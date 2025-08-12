@@ -10,7 +10,7 @@ I am Mahdi Hasan, a Postdoctoral Research Fellow in the Department of Marine, Ea
 
 Education
 =======
-- P.hD., Atmospheric Science, North Carolina State University, Raleigh, NC, USA
+- Ph.D., Atmospheric Science, North Carolina State University, Raleigh, NC, USA
 - MSc, Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
 - BSc, Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
 
@@ -18,8 +18,8 @@ Education
 
 <style>
   .news-container {
-    height: 150px;
-    overflow-y: scroll;
+    max-height: 600px;
+    overflow-y: auto;
     border: 1px solid #ccc;
     padding: 10px;
     background-color: #f9f9f9;
@@ -58,5 +58,5 @@ News
   </div>
   <div class="news-item">
     <span class="news-date">March, 2024:</span>
-    <span class="news-content">Passed Preliminary Exam. Now, officially a P.hD. Candidate!</span>
+    <span class="news-content">Passed Preliminary Exam. Now, officially a Ph.D. Candidate!</span>
 </div>
